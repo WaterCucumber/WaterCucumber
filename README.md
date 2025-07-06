@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @WaterCucumber
-- 🌱 I’m currently learning C# 
 
 <!---
 WaterCucumber/WaterCucumber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
